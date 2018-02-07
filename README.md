@@ -6,14 +6,23 @@
   <li><a href="http://calculuschild.github.io/5eMonsterCalculator/CRSuggestor.html">Random Encounter Generator</a></li>
   <li><a href-"https://iadndmn.neocities.org/kobolds.html">Random Kobold Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/CRcalc.html">Monster Generator</a></li>
-  <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator Resources</a></li>
+  <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator  Resources</a></li>
   </ul>
-  
-<h3>Additional Links</h3><ul>
-  <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles :: Reddit</a></li>
-  <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/">DM's Toolkit :: Reddit</a></li>
+<h3>Weblinks</h3><ul>
   <li><a href="https://rpg.stackexchange.com/"> RPG Stack Exchange</a></li>
   <li><a href="https://merricb.com/dungeons-dragons-5e-adventures-by-level/">5e Adventures Collection</a></li>
   <li><a href="http://mojobob.com/roleplay/roleplay.html">Fitz's Roleplaying Stuff</a></li>
   <li><a href="http://game-icons.net/">Game Icons</a></li>
   </ul>
+<h3>Reddit Resources</h3><ul>
+  <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles</a></li>
+  <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/">DM's Toolkit</a></li>
+  <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7v0noh/dm_dashboard/">DM's Dashboard</a></li>
+  </ul>
+<h3>Other GitHub Resources</h3><ul>
+  <li><a href="https://github.com/Miserlou/dnd-tldr">Dnd tldr</a></li>
+  <li><a href="https://github.com/adventurerscodex/adventurerscodex">Adventurer's Codex</a></li>
+  <li><a href="https://github.com/ceryliae/DnDAppFiles">Dnd App Files</a></li>
+  <li><a href="https://github.com/Valloric/statblock5e">Stat Block 5e</a></li>
+  <li><a href="https://github.com/jzlung/dnd">Dnd jzlung</a></li>
+    </ul>
