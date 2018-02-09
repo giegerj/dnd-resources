@@ -6,7 +6,7 @@
   <li><a href="http://calculuschild.github.io/5eMonsterCalculator/CRSuggestor.html">Random Encounter Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/kobolds.html">Random Kobold Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/CRcalc.html">Monster Generator</a></li>
-  <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator  Resources</a></li>
+  <li><a href="rpgtinker.com">NPC Generator</a></li>
   </ul>
 <h3>Weblinks</h3><ul>
   <li><a href="https://rpg.stackexchange.com/"> RPG Stack Exchange</a></li>
@@ -18,6 +18,9 @@
   <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles</a></li>
   <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/">DM's Toolkit</a></li>
   <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7v0noh/dm_dashboard/">DM's Dashboard</a></li>
+  <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7kdpmd/the_great_spirits/">The Great Spirits</a></li>
+    <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator  Resources</a></li>
+  <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7hpnnv/thoughts_on_the_divine_in_dd_four_systems_of/">Thoughts on the Divine in Four Systems of DnD</a></li>
   </ul>
 <h3>Other GitHub Resources</h3><ul>
   <li><a href="https://github.com/Miserlou/dnd-tldr">Dnd tldr</a></li>
