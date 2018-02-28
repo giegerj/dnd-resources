@@ -6,7 +6,7 @@
   <li><a href="http://calculuschild.github.io/5eMonsterCalculator/CRSuggestor.html">Random Encounter Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/kobolds.html">Random Kobold Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/CRcalc.html">Monster Generator</a></li>
-  <li><a href="rpgtinker.com">NPC Generator</a></li>
+  <li><a href="http://rpgtinker.com">NPC Generator</a></li>
   </ul>
 <h3>Weblinks</h3><ul>
   <li><a href="https://rpg.stackexchange.com/"> RPG Stack Exchange</a></li>
