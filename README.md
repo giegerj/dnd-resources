@@ -2,6 +2,7 @@
 
 <h3>Generators</h3><ul>
   <li><a href="http://web.cecs.pdx.edu/%7Earredon/spellbook/">Spellbook Generator</a></li>
+  <li><a href="http://magicalscrolls.com">Bogsy's Magical Scrolls Spells and Spellbooks</a></li>
   <li><a href="http://www.lordbyng.net/inspiration/tables.php">Magic Item Generator</a></li>
   <li><a href="http://calculuschild.github.io/5eMonsterCalculator/CRSuggestor.html">Random Encounter Generator</a></li>
   <li><a href="https://iadndmn.neocities.org/kobolds.html">Random Kobold Generator</a></li>
