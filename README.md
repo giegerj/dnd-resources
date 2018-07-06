@@ -25,6 +25,7 @@
   <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7kdpmd/the_great_spirits/">The Great Spirits</a></li>
     <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator  Resources</a></li>
   <li><a href="https://www.reddit.com/r/DnDBehindTheScreen/comments/7hpnnv/thoughts_on_the_divine_in_dd_four_systems_of/">Thoughts on the Divine in Four Systems of DnD</a></li>
+  <li><a href="https://www.reddit.com/r/DnD/comments/8tcblo/artocmade_a_pixel_art_halfling_character_card_why/">Pixel Art Character Cards</a></li>
   </ul>
 <h3>Other GitHub Resources</h3><ul>
   <li><a href="https://github.com/Miserlou/dnd-tldr">Dnd tldr</a></li>
