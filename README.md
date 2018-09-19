@@ -20,6 +20,8 @@
   <li><a href="https://merricb.com/dungeons-dragons-5e-adventures-by-level/">5e Adventures Collection</a></li>
   <li><a href="http://mojobob.com/roleplay/roleplay.html">Fitz's Roleplaying Stuff</a></li>
   <li><a href="http://game-icons.net/">Game Icons</a></li>
+  <li><a href="http://www.scruffygrognard.com/gh.htm">Scruffy Grognard</a></li>
+
   </ul>
 <h3>Reddit Resources</h3><ul>
   <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles</a></li>
