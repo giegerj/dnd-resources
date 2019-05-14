@@ -11,6 +11,7 @@
   <li><a href="http://homebrewery.naturalcrit.com/">Homebrewery 5e Document Creator</a></li>
   <li><a href="https://donjon.bin.sh/5e/random/">donjon 5e Random Generator</a></li>
   <li><a href="https://www.dungeonstome.com/">Dungeons TOME</a></li>
+  <li><a href="https://watabou.itch.io/medieval-fantasy-city-generator">Medieval Fantasy City Generator</a></li>
 
   </ul>
 <h3>Weblinks</h3><ul>
