@@ -23,7 +23,7 @@
   <li><a href="http://mojobob.com/roleplay/roleplay.html">Fitz's Roleplaying Stuff</a></li>
   <li><a href="http://game-icons.net/">Game Icons</a></li>
   <li><a href="http://www.scruffygrognard.com/gh.htm">Scruffy Grognard</a></li>
- <li><a href="ttps://centralia.aquest.com/doku.php?id=gaming_tools">Purdue Fantasy Club Gaming Tools </a></li>
+ <li><a href="https://centralia.aquest.com/doku.php?id=gaming_tools">Purdue Fantasy Club Gaming Tools </a></li>
 
   </ul>
 <h3>Reddit Resources</h3><ul>
