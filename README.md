@@ -24,6 +24,8 @@
   <li><a href="http://game-icons.net/">Game Icons</a></li>
   <li><a href="http://www.scruffygrognard.com/gh.htm">Scruffy Grognard</a></li>
  <li><a href="https://centralia.aquest.com/doku.php?id=gaming_tools">Purdue Fantasy Club Gaming Tools </a></li>
+  <li><a href="https://homebrewery.naturalcrit.com/share/H1Pwq8jv8Q">Gentry's Game (Mini Module; Lvl 5-7)</a></li>
+  
 
   </ul>
 <h3>Reddit Resources</h3><ul>
