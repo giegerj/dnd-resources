@@ -12,7 +12,7 @@
   <li><a href="https://donjon.bin.sh/5e/random/">donjon 5e Random Generator</a></li>
   <li><a href="https://www.dungeonstome.com/">Dungeons TOME</a></li>
   <li><a href="https://watabou.itch.io/medieval-fantasy-city-generator">Medieval Fantasy City Generator</a></li>
-
+  <li><a href="https://watabou.itch.io/one-page-dungeon">One-page Dungeon Generator</a></li>
   </ul>
 <h3>Weblinks</h3><ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1zQIGg5oI9RDp3YbBvbh0E1it9A0qXHgwKsSAoF7YkV8/edit">5e Magic Spreadsheet</a></li>
