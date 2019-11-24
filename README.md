@@ -25,8 +25,7 @@
   <li><a href="http://www.scruffygrognard.com/gh.htm">Scruffy Grognard</a></li>
  <li><a href="https://centralia.aquest.com/doku.php?id=gaming_tools">Purdue Fantasy Club Gaming Tools </a></li>
   <li><a href="https://homebrewery.naturalcrit.com/share/H1Pwq8jv8Q">Gentry's Game (Mini Module; Lvl 5-7)</a></li>
-  
-
+  <li><a href=" http://www.hahnlibrary.net/rpgs/tsrfonts.html"> TSR & WotC Font Usage FAQ </a></lis>
   </ul>
 <h3>Reddit Resources</h3><ul>
   <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles</a></li>
