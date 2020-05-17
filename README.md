@@ -24,7 +24,7 @@
   <li><a href="http://www.scruffygrognard.com/">Scruffy Grognard</a></li>
  <li><a href="https://centralia.aquest.com/doku.php?id=gaming_tools">Purdue Fantasy Club Gaming Tools </a></li>
   <li><a href="https://homebrewery.naturalcrit.com/share/H1Pwq8jv8Q">Gentry's Game (Mini Module; Lvl 5-7)</a></li>
-  <li><a href="http://www.hahnlibrary.net/rpgs/tsrfonts.html"> TSR & WotC Font Usage FAQ </a></li>
+  <li><a href="https://www.dnd-compendium.com/dm-resources/maps-map-tools"> DnD Compendium: Maps & Map Tools</a></li>
   <li><a href="https://docs.google.com/document/d/1lMuaXVHExApGx1JbKuKD866yDpGiW5SqEr7_y1nnsDo/edit">DND5resources list</a></li>
   </ul>
 
