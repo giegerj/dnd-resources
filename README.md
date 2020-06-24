@@ -35,4 +35,5 @@
   <li><a href="https://github.com/adventurerscodex/adventurerscodex">Adventurer's Codex (GIT)</a></li>
   <li><a href="https://github.com/Valloric/statblock5e">Stat Block 5e (GIT)</a></li>
   <li><a href="https://github.com/jzlung/dnd">Dnd jzlung (GIT)</a></li>
+  <li><a href="https://www.reddit.com/r/DnD/comments/gwg640/oc_i_recently_made_this_program_for_creating/">Game Master Engine</a></li>
     </ul>
