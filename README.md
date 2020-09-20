@@ -30,10 +30,10 @@
 
 <h3>Reddit and GitHub Resources</h3><ul>
   <li><a href="https://www.reddit.com/r/DnD/comments/7oroel/whats_the_coolest_puzzle_youve_encountered_in/">List of Puzzles (RED)</a></li>
-    <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator Resources (RED)</a></li>
+  <li><a href="https://www.reddit.com/r/DnD/comments/vftej/resource_guide_world_and_map_generation/">World and Map Generator Resources (RED)</a></li>
   <li><a href="https://github.com/Miserlou/dnd-tldr">Dnd tldr (GIT)</a></li>
   <li><a href="https://github.com/adventurerscodex/adventurerscodex">Adventurer's Codex (GIT)</a></li>
   <li><a href="https://github.com/Valloric/statblock5e">Stat Block 5e (GIT)</a></li>
   <li><a href="https://github.com/jzlung/dnd">Dnd jzlung (GIT)</a></li>
   <li><a href="https://www.reddit.com/r/DnD/comments/gwg640/oc_i_recently_made_this_program_for_creating/">Game Master Engine</a></li>
-    </ul>
+   </ul>
