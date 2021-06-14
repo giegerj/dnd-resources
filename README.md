@@ -37,5 +37,7 @@
   <li><a href="https://github.com/Valloric/statblock5e">Stat Block 5e (GIT)</a></li>
   <li><a href="https://github.com/jzlung/dnd">Dnd jzlung (GIT)</a></li>
   <li><a href="https://www.reddit.com/r/DnD/comments/gwg640/oc_i_recently_made_this_program_for_creating/">Game Master Engine</a></li>
-  <!--https://www.reddit.com/r/DnD/comments/k6i726/i_made_this_program_to_help_you_bring_your_worlds/-->
+  <!--https://www.reddit.com/r/DnD/comments/k6i726/i_made_this_program_to_help_you_bring_your_worlds/
+https://www.reddit.com/r/DnD/comments/m933rw/i_made_an_inyourbrowser_dd_encounter_mapmaker_no/
+https://www.sageadvice.eu/2015/12/28/is-chris-perkins-the-dungeon-master-experience-archive-gone/-->
    </ul>
