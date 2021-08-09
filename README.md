@@ -31,7 +31,7 @@
   <li><a href="https://docs.google.com/document/d/1lMuaXVHExApGx1JbKuKD866yDpGiW5SqEr7_y1nnsDo/edit">DND5resources list</a></li>
   <li><a href="https://www.angelfire.com/rpg2/vortexshadow/magic/unstablemagic.html">Unstalbe Magic List (Random Magic Effects)</a></li>
   <li><a href="http://pyromancers.com/dungeon-painter-online/">Dungeon Painter Online</a></li>
-  <li><a href=" https://www.sageadvice.eu/2015/12/28/is-chris-perkins-the-dungeon-master-experience-archive-gone/">Sage Advice Archive</a></li>
+  <li><a href="https://www.sageadvice.eu/2015/12/28/is-chris-perkins-the-dungeon-master-experience-archive-gone/">Sage Advice Archive</a></li>
   </ul>
 
 <h3>Reddit and GitHub Resources</h3><ul>
