@@ -17,7 +17,7 @@
   </ul>
 
 <h3>Weblinks</h3><ul>
-   <li><a href="https://5etools.com/">5e Tools</a></li>
+   <li><a href="https://5etools.com/">5e Tools</a> and <a href="https://5etools-mirror-1.github.io/index.html">mirror</a></li>
   <li><a href="http://game-icons.net/">Game Icons</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1zQIGg5oI9RDp3YbBvbh0E1it9A0qXHgwKsSAoF7YkV8/edit">5e Magic Spreadsheet (Reference)</a></li>
   <li><a href="http://homebrewery.naturalcrit.com/print/SkIxTLn_Z?dialog=true">Custom Magic Items List</a></li>
