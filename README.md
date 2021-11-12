@@ -14,6 +14,7 @@
   <li><a href="https://dungeonmapdoodler.com/index.html">Dungeon Map Doodler</a></li>
   <li><a href="http://pyromancers.com/dungeon-painter-online/">Dungeon Painter Online</a></li>
   <li><a href="https://tetra-cube.com/dnd/dnd-statblock.html">5e Statblock Generator</a></li>
+  <li><a href="https://initiative.sh/">initiative.sh encounter generator</a></li>
   </ul>
 
 <h3>Weblinks</h3><ul>
