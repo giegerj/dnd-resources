@@ -44,5 +44,26 @@
   <li><a href="https://noossablue.notion.site/Templates-for-D-D-5e-3948766faa9c43d9b68c1b822dc88903">D&D Wiki Template Using Notion v 2.0.0</a></li>
   <!--https://www.reddit.com/r/DnD/comments/k6i726/i_made_this_program_to_help_you_bring_your_worlds/
 https://www.reddit.com/r/DnD/comments/m933rw/i_made_an_inyourbrowser_dd_encounter_mapmaker_no/
+    https://azgaar.github.io/Fantasy-Map-Generator/ 
+    http://www.d20srd.org/extras/d20monsterfilter 
+    https://www.lordbyng.net/inspiration/ 
+    https://www.aidedd.org/atlas/index.php Interactive map of Toril
+    https://dungeonmastertools.github.io/index.html#table-b 
+    https://watabou.itch.io/village-generator 
+    https://curufea.com/games/roguelike/map.php 
+    https://dungeonscrawl.com/ 
+    https://donjon.bin.sh/5e/dungeon/ 
+    https://www.kassoon.com/ 
+    https://www.mapforge-software.com/ 
+    https://2minutetabletop.com/ 
+    https://mythcreants.com/ 
+    https://www.rptools.net/ 
+    https://deepnight.net/tools/rpg-map/ .
+    http://spyandowl.com/the-monsters-know
+    https://www.legendkeeper.com/ 
+    https://www.redblobgames.com/maps/mapgen4/ 
+    https://www.dnd-compendium.com/ 
+    https://www.dndspeak.com
+    https://icograms.com/ 
 -->
    </ul>
