@@ -58,12 +58,16 @@ https://www.reddit.com/r/DnD/comments/m933rw/i_made_an_inyourbrowser_dd_encounte
     https://2minutetabletop.com/ 
     https://mythcreants.com/ 
     https://www.rptools.net/ 
-    https://deepnight.net/tools/rpg-map/ .
+    https://deepnight.net/tools/rpg-map/
     http://spyandowl.com/the-monsters-know
     https://www.legendkeeper.com/ 
     https://www.redblobgames.com/maps/mapgen4/ 
     https://www.dnd-compendium.com/ 
     https://www.dndspeak.com
     https://icograms.com/ 
+https://www.reddit.com/r/BehindTheTables/
+https://duvelmandice.github.io/vault/
+https://zwgarth.itch.io/dungeon-workbook
+https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
 -->
    </ul>
