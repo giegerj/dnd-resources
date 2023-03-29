@@ -42,6 +42,8 @@
   <li><a href="https://github.com/jzlung/dnd">Dnd jzlung (GIT)</a></li>
   <li><a href="https://www.reddit.com/r/DnD/comments/gwg640/oc_i_recently_made_this_program_for_creating/">Game Master Engine (REDDIT)</a></li>
   <li><a href="https://noossablue.notion.site/Templates-for-D-D-5e-3948766faa9c43d9b68c1b822dc88903">D&D Wiki Template Using Notion v 2.0.0</a></li>
+  
+  
   <!--https://www.reddit.com/r/DnD/comments/k6i726/i_made_this_program_to_help_you_bring_your_worlds/
 https://www.reddit.com/r/DnD/comments/m933rw/i_made_an_inyourbrowser_dd_encounter_mapmaker_no/
     https://azgaar.github.io/Fantasy-Map-Generator/ 
@@ -69,5 +71,8 @@ https://www.reddit.com/r/BehindTheTables/
 https://duvelmandice.github.io/vault/
 https://zwgarth.itch.io/dungeon-workbook
 https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon
+https://www.dicebreaker.com/games/dungeons-and-dragons-5e/best-games/best-dnd-map-makers
+https://dungeonmapdoodler.com/beta/
 -->
+
    </ul>
